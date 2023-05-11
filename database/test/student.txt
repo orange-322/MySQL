@@ -1,0 +1,6 @@
+0
+id	name	birth_place
+78	zhaoliu	shanghai
+56	wangwu	beijing
+34	lisi	jiangsu
+12	zhangsan	jiangsu
